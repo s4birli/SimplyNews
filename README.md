@@ -1,4 +1,4 @@
-====================================
+=========================================
 Python scrabing news article with Newspaper3k
 ====================================
 SimplyNews design to give best article details with Newspaper3k repo

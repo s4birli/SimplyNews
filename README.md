@@ -3,8 +3,8 @@ Python scrabing news article with Newspaper3k
 ====================================
 SimplyNews design to give best article details with Newspaper3k repo
 
-* `Source code @ GitHub <https://github.com/s4birli/spinrewriter>`_
-* `Releases @ PyPI <https://pypi.org/project/SpinRewritterPyt#downloads>`_
+* `Source code @ GitHub <https://github.com/s4birli/SimplyNews>`_
+* `Releases @ PyPI <https://pypi.org/project/SimplyNews#downloads>`_
 
 
 Install

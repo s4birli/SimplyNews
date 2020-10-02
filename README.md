@@ -1,6 +1,6 @@
-====================================
+==============================================
 Python scrabing news article with Newspaper3k
-====================================
+==============================================
 SimplyNews design to give best article details with Newspaper3k repo
 
 * `Source code @ GitHub <https://github.com/s4birli/SimplyNews>`_
@@ -33,23 +33,25 @@ After installing it, this is how you use it::
     Request processed cleaned_news
     >>> simplynews.cleaned_news()
     text = simplynews.text 
-    #removed all images, links, emails from text
+    # removed all images, links, emails from text
     # also replaced all h2, h3, h4 tags with [h2], [h3], [h4]
 
     Request processed prettier_news
     >>> simplynews.prettier_news()
     text = simplynews.text 
-    #removed all images, links, emails from text
+    # removed all images, links, emails from text
     # also aded all h2, h3, h4 tags to text
 
-    Accessible parameters:
-    text
-    original_text
-    original_html
-    keywords
-    desc
-    title
-    top_image_url
-    images
-    published_date = None
-    authors
+
+Accessible parameters
+======================
+text
+original_text
+original_html
+keywords
+desc
+title
+top_image_url
+images
+published_date = None
+authors
